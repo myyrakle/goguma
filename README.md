@@ -1,1 +1,1 @@
-# goguma
+# gone
